@@ -1,6 +1,7 @@
 # GoodbyeDPI (Fork by fatiqueos)
 
-GoodbyeDPI, Türkiye'deki bazı internet servis sağlayıcılarının DNS değişikliğine izin vermemesi nedeniyle **ValdikSS** tarafından geliştirilmiş asıl projeden forkladır. Derin Paket İnceleme (DPI) sistemlerini atlatmak için tasarlanmış bu yazılım, Optik Ayırıcı ve Pasif DPI gibi yöntemlerle bağlantı kurar; bu, oyunlar ve genel internet kullanımında hız değişikliği yaratmaz.
+GoodbyeDPI, Türkiye'deki bazı internet sağlayıcılarının DNS ayarlarını değiştirmelerine izin vermediği için [ValdikSS](https://github.com/ValdikSS)
+ tarafından yapılan bir projedir. Bu yazılım, internet üzerindeki engelleri aşmak için geliştirilmiştir. Özel yöntemler kullanarak internet bağlantınızı gizler ve bu sayede oyun oynarken veya internette gezerken hızınızda değişiklik olmaz.
 
 ## Özellikler
 
